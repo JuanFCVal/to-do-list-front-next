@@ -1,0 +1,10 @@
+::-webkit-scrollbar {
+    width: 0.4em;
+    background-color: #212121;
+  }
+   
+  /* Personalizar la barra de desplazamiento */
+  ::-webkit-scrollbar-thumb {
+    background-color: #4f4f4f;
+    border-radius: 10px;
+  }
